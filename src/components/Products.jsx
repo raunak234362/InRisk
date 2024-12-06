@@ -2,7 +2,7 @@ import image1 from "../assets/Hello world.jpeg";
 
 const Products = () => {
   return (
-    <div className="flex justify-center items-center min-h-screen bg-gray-100">
+    <div className="flex justify-center items-center min-h-screen">
       <div className="max-w-sm mx-auto bg-white rounded-lg shadow-md overflow-hidden transform transition duration-500 hover:scale-150">
         {/* Product Image */}
         <img

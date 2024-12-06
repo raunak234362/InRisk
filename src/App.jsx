@@ -4,7 +4,7 @@ import Products from "./components/Products";
 function App() {
   return (
     <div className="bg-black h-screen">
-      <div className=" text-white text-3xl flex justify-center items-center font-bold">
+      <div className=" text-white text-3xl py-5 flex justify-center items-center font-bold">
         Product Card
       </div>
       <Products />
